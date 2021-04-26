@@ -295,7 +295,7 @@ Using the vowelCounter function below do the following:
 function vowelCounter(a) {
   return a.match(/[aeiou]/gi).length
 }
-vowelCounter('I love you')
+vowelCounter('Supercalifragilisticexpialidocious')
 
 
 /*🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑*/
